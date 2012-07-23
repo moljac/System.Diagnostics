@@ -1,0 +1,25 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "System.Diagnostics.MA", "System.Diagnostics.MA\System.Diagnostics.MA.csproj", "{61972F0E-86A8-4A1E-9A02-BD271EDB9CC6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "System.Diagnostics.MT", "System.Diagnostics.MT\System.Diagnostics.MT.csproj", "{EC9A012A-7808-43AC-A920-BF18FF1C957B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61972F0E-86A8-4A1E-9A02-BD271EDB9CC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61972F0E-86A8-4A1E-9A02-BD271EDB9CC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61972F0E-86A8-4A1E-9A02-BD271EDB9CC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61972F0E-86A8-4A1E-9A02-BD271EDB9CC6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC9A012A-7808-43AC-A920-BF18FF1C957B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC9A012A-7808-43AC-A920-BF18FF1C957B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC9A012A-7808-43AC-A920-BF18FF1C957B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC9A012A-7808-43AC-A920-BF18FF1C957B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
